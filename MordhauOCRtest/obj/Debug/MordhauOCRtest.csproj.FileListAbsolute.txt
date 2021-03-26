@@ -1,0 +1,10 @@
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\bin\Debug\MordhauOCRtest.exe.config
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\bin\Debug\MordhauOCRtest.exe
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\bin\Debug\MordhauOCRtest.pdb
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\obj\Debug\MordhauOCRtest.csproj.CoreCompileInputs.cache
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\obj\Debug\MordhauOCRtest.csproj.CopyComplete
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\obj\Debug\MordhauOCRtest.exe
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\obj\Debug\MordhauOCRtest.pdb
+C:\Users\rok10\Documents\Programming\Projects\MordhauOCRtest\MordhauOCRtest\obj\Debug\MordhauOCRtest.csprojAssemblyReference.cache
